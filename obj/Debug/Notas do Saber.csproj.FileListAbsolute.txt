@@ -1,0 +1,21 @@
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\Notas do Saber.exe.config
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\Notas do Saber.exe
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\Notas do Saber.pdb
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\EntityFramework.dll
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\System.Data.SQLite.dll
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\EntityFramework.xml
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\bin\Debug\System.Data.SQLite.xml
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\obj\Debug\Notas do Saber.csproj.AssemblyReference.cache
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\obj\Debug\Notas_do_Saber.Properties.Resources.resources
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\obj\Debug\Notas do Saber.csproj.GenerateResource.cache
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\obj\Debug\Notas do Saber.csproj.CoreCompileInputs.cache
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\obj\Debug\Notas do.AA3BA134.Up2Date
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\obj\Debug\Notas do Saber.exe
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\obj\Debug\Notas do Saber.pdb
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\obj\Debug\Notas_do_Saber.formLogin.resources
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\obj\Debug\Notas_do_Saber.mainForm.resources
+C:\Users\vitto\Downloads\projetinhos\Notas do Saber\obj\Debug\Notas_do_Saber.formRegister.resources
